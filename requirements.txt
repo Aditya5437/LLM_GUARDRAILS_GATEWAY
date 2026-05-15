@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+pydantic
+pyyaml
+better-profanity
+email-validator
+python-multipart
+langchain
+langchain-groq
+-e .

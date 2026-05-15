@@ -1,0 +1,5 @@
+blocked_topics:
+  - politics
+  - medical advice
+
+max_response_length: 500
