@@ -275,16 +275,6 @@ Planned enterprise upgrades:
 
 ---
 
-# 📈 Resume Highlights
-
-- Built enterprise-style AI middleware using FastAPI and Llama 3.1
-- Implemented prompt injection detection and PII filtering
-- Developed YAML-based AI governance policy engine
-- Created modular backend architecture for scalable AI systems
-- Integrated LangChain and Groq for low-latency LLM inference
-
----
-
 # 👨‍💻 Author
 
 Aditya Bapat
